@@ -1,7 +1,7 @@
 essential.css
 =============
 
-The smallest CSS template for articles.
+A beautiful article template in 786 bytes.
 
 Usage
 =====
