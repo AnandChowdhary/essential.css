@@ -1,7 +1,7 @@
 essential.css
 =============
 
-A beautiful article template in 786 bytes.
+A beautiful article template in 786 bytes. More customization coming soon.
 
 Usage
 =====
