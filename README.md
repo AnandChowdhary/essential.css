@@ -1,17 +1,18 @@
 essential.css
 =============
 
-**Update**: I don't maintain this library anymore. Check out [Aptitude](https://github.com/AnandChowdhary/aptitude).
-
 A beautiful article template in 786 bytes. More customization coming soon.
 
-Usage
-=====
+![Screenshot showing header](/essential1.png)
+![Screenshot showing footer](/essential2.png)
+
+## Usage
+
+⚠️ This is now deprecated
 
 `<link rel="stylesheet" type="text/css" href="//cdn.rawgit.com/AnandChowdhary/essential.css/master/essential.css">`
 
-License
-=======
+## License
 
 Copyright (c) 2014 Anand Chowdhary (anandchowdhary@gmail.com).
 
